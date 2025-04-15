@@ -11,3 +11,12 @@
 Hi, I'm Jose — a web developer now pivoting into **Embedded Systems** and **Electronics**.
 
 While I started in web dev, I’ve always felt a deeper calling toward **building and programming real-world devices** the kind that beep, blink, and move.
+
+### Why the shift?
+
+- Web dev market is **oversaturated** and unstable for juniors
+- AI is automating a lot of frontend grunt work
+- Embedded offers a future-proof, hands-on career
+- Passion: I want to build things I can touch
+
+---
