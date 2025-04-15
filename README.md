@@ -7,3 +7,7 @@
 
 ---
 ## 🧭 Introduction
+
+Hi, I'm Jose — a web developer now pivoting into **Embedded Systems** and **Electronics**.
+
+While I started in web dev, I’ve always felt a deeper calling toward **building and programming real-world devices** — the kind that beep, blink, and move.
