@@ -23,4 +23,4 @@ While I started in web dev, I’ve always felt a deeper calling toward **buildin
 
 ## 🚀 The Embedded Pivot
 
-With IoT, drones, wearables, and VR growing fast,  embedded systems
+With IoT, drones, wearables, and VR growing fast,  embedded systems sit at the heart of innovation
