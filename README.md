@@ -20,4 +20,5 @@ While I started in web dev, I’ve always felt a deeper calling toward **buildin
 - Passion: I want to build things I can touch
 
 ---
+
 ## 🚀 The Embedded Pivot
