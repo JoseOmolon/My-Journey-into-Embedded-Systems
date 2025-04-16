@@ -22,3 +22,5 @@ While I started in web dev, I’ve always felt a deeper calling toward **buildin
 ---
 
 ## 🚀 The Embedded Pivot
+
+With IoT, drones, wearables, and VR growing fast, 
