@@ -27,6 +27,8 @@ With IoT, drones, wearables, Smart Consumer Electronics and VR growing fast,  em
 
 This repo is my personal **learning blog**, tracking my journey from zero to pro and maybe inspiring others along the way. This is will serve as a prototype to the "BLOG" Style website I will create to highlight this journey and also Serve as my Portfolio.
 
+I'm leaning more towards the Hardware side of Embedded so that I can have a fallback as an Electronics Techninician.
+
 ---
 
 ## 📘 What I'm Learning
