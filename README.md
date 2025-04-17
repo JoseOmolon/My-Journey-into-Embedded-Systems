@@ -33,3 +33,9 @@ I'm leaning more towards the Hardware side of Embedded so that I can have a fall
 
 ## 📘 What I'm Learning
 
+```txt
+Book: Practical Electronics for Inventors
+Tools: Arduino, Multimeter, Breadboard, Sensors
+Languages: C/C++, PlatformIO, STM32CubeIDE
+Eventually: Rust, RTOS, ARM assembly
+
