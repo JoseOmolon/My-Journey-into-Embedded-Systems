@@ -25,3 +25,6 @@ While I started in web dev, I’ve always felt a deeper calling toward **buildin
 
 With IoT, drones, wearables, Smart Consumer Electronics and VR growing fast,  embedded systems sit at the heart of innovation. I’m documenting my learning path  as I transition from software to **software + hardware**.
 
+This repo is my personal **learning blog**, tracking my journey from zero to pro — and maybe inspiring others along the way. This is will serve as a prototype to the "BLOG" Style website I will create to highlight this journey and also Serve as my Portfolio.
+
+
