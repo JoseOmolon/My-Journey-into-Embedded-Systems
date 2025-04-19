@@ -42,4 +42,6 @@ Eventually: Rust, RTOS, ARM assembly
 
 Core Concepts:
 - Ohm's Law
+- Voltage, Current, Resistance
+
 
