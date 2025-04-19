@@ -44,4 +44,4 @@ Core Concepts:
 - Ohm's Law
 - Voltage, Current, Resistance
 - Power, Series/Parallel Circuits
-
+- Digital vs Analog
