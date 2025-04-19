@@ -38,4 +38,8 @@ Book: Practical Electronics for Inventors
 Tools: Arduino, Multimeter, Breadboard, Sensors
 Languages: C/C++, PlatformIO, STM32CubeIDE
 Eventually: Rust, RTOS, ARM assembly
+```
+
+Core Concepts:
+
 
