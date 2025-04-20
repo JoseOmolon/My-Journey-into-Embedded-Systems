@@ -51,5 +51,5 @@ Core Concepts:
 2025-04-15
 
 ✅ Learned about Ohm’s Law and power equations
-
+✅ Built first simple LED + resistor circuit on breadboard
 
