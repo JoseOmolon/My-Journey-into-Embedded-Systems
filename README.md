@@ -52,4 +52,6 @@ Core Concepts:
 
 - ✅ Learned about Ohm’s Law and power equations
 - ✅ Built first simple LED + resistor circuit on breadboard
+- ✅ Read 20 pages of Practical Electronics for Inventors
+
 
