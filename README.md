@@ -54,6 +54,6 @@ Core Concepts:
 - ✅ Built first simple LED + resistor circuit on breadboard
 - ✅ Read 20 pages of Practical Electronics for Inventors
 
-
+---
 
 
