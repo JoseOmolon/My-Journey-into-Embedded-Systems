@@ -58,3 +58,4 @@ Core Concepts:
 2025-04-17
 
 - ✅ Used a multimeter to test voltage across components
+- ✅ Experimented with potentiometer as analog input to Arduino
