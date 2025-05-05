@@ -1,4 +1,4 @@
-# ⚡ From Web to Wires: My Journey into Embedded Systems 12344
+# ⚡ From Web to Wires: My Journey into Embedded Systems 1234
 
 ---
 
