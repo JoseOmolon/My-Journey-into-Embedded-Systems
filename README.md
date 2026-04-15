@@ -2,7 +2,7 @@
 
 ---
 
-> _“In a world full of web apps, be the one who builds the chip that powers them.”_  
+> _“In a world full of web apps, be the one who builds the chip that powers them.”_   12345
 > — **Jose Omolon**
 
 ---
